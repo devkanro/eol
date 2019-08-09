@@ -15,7 +15,7 @@ import (
 var rootCmd = &cobra.Command{
 	Use:     "eol",
 	Short:   "eol is using for changing text's the end of line.",
-	Long:    `A line separators changer for text, it support crlf(\r\n), lf(\n) and cr(\r).`,
+	Long:    `A line separators changer for text, it supports crlf(\r\n), lf(\n) and cr(\r).`,
 	Version: "v1.0",
 }
 
