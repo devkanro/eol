@@ -24,7 +24,7 @@ Use "eol [command] --help" for more information about a command.
 ```
 
 ## Supported encoding
-Unicode: utf-8, utf-16b(big-endian), utf-16l(little-endian)
+Unicode: utf-8, utf-16b(big-endian), utf-16l(little-endian)  
 CKJ: gbk, gb18030, big-5, shift-j, euckr
 
 ## Auto skip binrary file
